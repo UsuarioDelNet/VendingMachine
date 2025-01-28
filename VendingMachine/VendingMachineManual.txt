@@ -1,0 +1,22 @@
+Welcome, owner of a new Ultimate Vending Machine!
+--Brought to you by the Daniel Liss Design Co.
+--With contributions by Joseph Miles LLC.
+__________________________________________________________________________________________________________________
+Congratulations on your purchase. You are now the proud owner of the newest model of the Ultimate Vending Machine.
+As the owner of this machine, you are responsible for restocking items in the machine.
+The administration code to restock this specific machine is 73794152.
+
+The machine stores 9 items:
+1) Inca Kola*
+2) Pepsi-Cola
+3) Fanta
+4) Resident Pepper
+5) Chicken Noodle Soup
+6) Ambrosia**
+7) Diet Coca-Cola
+8) Air Budweiser***
+9) Water
+
+*When purchasing Inca Kola, the machine accepts the Peruvian Sol as an alternative to the USD.
+**As of 11/14/1022 Ambrosia has been removed from production, and is now an invalid choice.
+***Please note, the legal drinking age is 21 in the US. The Daniel Liss Design Co. and Joseph Miles LLC. advocate for any customer to drink responsibly.
